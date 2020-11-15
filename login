@@ -10,7 +10,6 @@ echo "success to login... " | pv -qL 20
 echo ""
 sleep 1
 clear
-else
-  curl -s https://raw.githubusercontent.com/GMhabib/index.sh/main/login | bash 
+  #curl -s https://raw.githubusercontent.com/GMhabib/index.sh/main/login | bash 
  fi
 
