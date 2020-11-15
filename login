@@ -11,5 +11,6 @@ echo ""
 sleep 1
 clear
 else
-   #curl -s  | bash
-fi
+  curl -s https://raw.githubusercontent.com/GMhabib/index.sh/main/login | bash 
+  fi
+
